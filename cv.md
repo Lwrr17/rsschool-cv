@@ -4,6 +4,8 @@
 * Discord: JIfdsjfda ଘ(੭*ˊᵕˋ)੭*#7295
 * E-mail: maximastreiko@gmail.com
 * Tel: +375298125543
+* tg: max_lwr
+
 
 # About myself:
   I want to learn everything new. For example Front-end development and maybe more soon. And i'm open for offers.
