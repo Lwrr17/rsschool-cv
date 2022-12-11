@@ -6,7 +6,7 @@
 * Tel: +375298125543
 
 # About myself:
-  I want to learn everything new. For example Front-end development and maybe more soon.
+  I want to learn everything new. For example Front-end development and maybe more soon. And i'm open for offers.
   
 # Code example: 
   None
@@ -21,3 +21,4 @@
 # Language
 * Russian - native 
 * English - B2
+
