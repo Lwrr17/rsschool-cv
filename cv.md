@@ -14,10 +14,10 @@
 #### Work experience 
   None
 
-###### Education and courses:
+# Education and courses:
   * Studying in university(bsu 1st course) 
   * Learned c++ by my self in the past
 
-#Language
+# Language
 * Russian - native 
 * English - B2
