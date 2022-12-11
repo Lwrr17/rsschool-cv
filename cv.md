@@ -5,14 +5,14 @@
 * E-mail: maximastreiko@gmail.com
 * Tel: +375298125543
 
-## About myself:
+# About myself:
   I want to learn everything new. For example Front-end development and maybe more soon.
   
-### Code example: 
+# Code example: 
   None
 
-#### Work experience 
-  None
+# Work experience 
+   None
 
 # Education and courses:
   * Studying in university(bsu 1st course) 
