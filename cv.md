@@ -21,4 +21,5 @@
 # Language
 * Russian - native 
 * English - B2
+* Spanish - A1
 
